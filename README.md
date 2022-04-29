@@ -1,2 +1,2 @@
-# guessNumberGame2
+# guessNumberGame
 Created with CodeSandbox

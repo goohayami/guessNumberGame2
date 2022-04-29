@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif;
+  background-color: rgba(72, 71, 110, 0.315);
+  margin: 0;
+}
+
+header {
+  background-color: #74992e;
+  margin: 0;
+  height: 70px;
+  font-size: 32px;
+  text-align: center;
+  /* padding: 0; */
+}
+
+.quizName {
+  padding-top: 12px;
+  font-family: "Lucida Sans", sans-serif;
+}
+
+.quizContainer {
+  text-align: center;
+}
+
+#guessNum {
+  height: 60px;
+  width: 150px;
+  margin-top: 8px;
+  border: 4px black solid;
+  border-radius: 4px;
+  font-size: 32px;
+  text-align: center;
+}
+
+#btnS {
+  margin-top: 8px;
+  width: 120px;
+  height: 50px;
+  font-size: 30px;
+}
+
+#comment {
+  margin-top: 8px;
+  font-size: 24px;
+}
